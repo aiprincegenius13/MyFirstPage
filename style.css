@@ -25,6 +25,19 @@ background-color: yellow;
   
 }
 
+.anime-zombie{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: right;
+ /* border: 2px solid black; */
+ transition: 30s;
+ translate: 600%;
+ animation-iteration-count: infinite;
+ 
+ 
+}
+
 
 /*About Page styling */
 
